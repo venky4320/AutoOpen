@@ -1,0 +1,22 @@
+*{
+    background-color:black;
+
+}
+.nav-container{
+    display: flex;
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 50px;
+    }
+
+.nav-heading{
+    margin-right: 280px;
+}
+.nav-heading1{
+    margin-left: 40px;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
